@@ -1,0 +1,7 @@
+{
+    "dashboard": "Dashboard",
+    "cryptocurrency_list": "Cryptocurrency List",
+    "price-chart": "Price Chart",
+    "loading": "Loading cryptocurrencies...",
+    "select-crypto": "Select a cryptocurrency to view its chart."
+}

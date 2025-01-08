@@ -1,0 +1,14 @@
+{
+    "name": "cryptoviews",
+    "private": true,
+    "workspaces": [
+        "backend",
+        "frontend"
+    ],
+    "scripts": {
+        "start": "concurrently \"npm run --prefix backend start\" \"npm run --prefix frontend start\""
+    },
+    "devDependencies": {
+        "concurrently": "^9.1.2"
+    }
+}

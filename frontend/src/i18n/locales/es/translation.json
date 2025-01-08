@@ -1,0 +1,7 @@
+{
+    "dashboard": "Panel",
+    "cryptocurrency_list": "Lista de criptomonedas",
+    "price-chart": "Gráfico de precios",
+    "loading": "Cargando criptomonedas...",
+    "select-crypto": "Seleccione una criptomoneda para ver su gráfico."
+}

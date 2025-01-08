@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #141526; /* Dark blue background */
+  color: #A5A6B1; /* Text gray */
+}
+
+h1, h2, h3 {
+  font-weight: 700;
+  color: #fff; /* Ensure headings are white */
+}
